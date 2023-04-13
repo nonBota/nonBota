@@ -26,7 +26,6 @@
 ## Status
 
 <div align="center" >
-<a href="https://github.com/Srbottine">
 <img width="49%" height="200px" src="https://github-readme-stats.vercel.app/api?username=Srbottine&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
 
 <img width="49%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srbottine&layout=compact&langs_count=16&theme=great-gatsby"/>
