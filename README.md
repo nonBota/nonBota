@@ -1,16 +1,15 @@
 ## Hi! I am Lucas Bottine 👋
 
-[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](lucasbottine7@gmail.com)
+[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucasbottine7@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sapo_pidao?igshid=ZDdkNTZiNTM=)
 [![linkdin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/lucas-bottine)
 
-
-## about me
+## About me
 
 <div>
 <p>Developer testing my capabilities, in search of the evolution of my capabilities, currently working Atos-BR</p>
 
-## Tecnologias que eu uso no meu dia
+## Technologies I use in my day
 
   <div style="display: inline_block">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -24,13 +23,14 @@
   </div><br/>
 </div>
 
+## Status
+
 <div align="center" >
 <a href="https://github.com/Srbottine">
-<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Srbottine&show_icons=true&hide_border=true&title_color=4169e1&icon_color=00ccff&text_color=c9d1d9&bg_color=0d1117&include_all_commits=true&count_private=true"/>
+<img width="49%" height="200px" src="https://github-readme-stats.vercel.app/api?username=Srbottine&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
 
-<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srbottine&layout=compact&langs_count=7&hide_border=true&title_color=4169e1&text_color=c9d1d9&bg_color=0d1117"/>
+<img width="49%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srbottine&layout=compact&langs_count=16&theme=great-gatsby"/>
 </div>
 
 
-
-
+![Snake animation](https://github.com/Srbottine/Srbottine/blob/output/github-contribution-grid-snake.svg)
