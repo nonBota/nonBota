@@ -31,5 +31,7 @@
 
 <img width="49%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srbottine&layout=compact&langs_count=16&theme=great-gatsby"/>
 </div>
+  
+## Snake 🐍
 
 ![snake gif](https://github.com/Srbottine/Srbottine/blob/output/github-contribution-grid-snake.svg)
