@@ -26,10 +26,6 @@
 ## Status
 
 ![SrBottine GitHub stats](https://github-readme-stats.vercel.app/api?username=Srbottine&show_icons=true&theme=radical)
-![SrBottine GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Srbottine&layout=compact&langs_count=7&theme=dracula)
-
-
-
   
 ## Snake 🐍
 
