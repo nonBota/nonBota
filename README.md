@@ -1,7 +1,7 @@
 ## Hi! I am Lucas Bottine 👋
 
-[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucasbottine7@gmail.com)
-[![linkdin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/lucas-bottine)
+[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:non.botas@gmail.com)
+
 
 ## About me
 
@@ -22,7 +22,5 @@
   </div><br/>
 </div>
 
-## Status
 
-![SrBottine GitHub stats](https://github-readme-stats.vercel.app/api?username=Srbottine&show_icons=true&theme=radical)
   
