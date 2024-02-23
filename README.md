@@ -1,13 +1,12 @@
 ## Hi! I am Lucas Bottine 👋
 
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucasbottine7@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sapo_pidao?igshid=ZDdkNTZiNTM=)
 [![linkdin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/lucas-bottine)
 
 ## About me
 
 <div>
-<p>Developer testing my capabilities, in search of the evolution of my capabilities, currently working Atos-BR</p>
+<p>looking to become a cybersecurity person</p>
 
 ## Technologies I use in my day
 
