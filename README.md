@@ -5,7 +5,7 @@
 ## About me
 
 <div>
-<p>looking to become a cybersecurity person</p>
+<p>looking to become a person</p>
 
 ## Technologies I use in my day
 
